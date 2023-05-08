@@ -1,6 +1,6 @@
 # flask-documentation
 Api desenvolvida em python com flask 
-- flask db migrate
+- flask db upgrade
 - python app.py
 
 # Documentação 
